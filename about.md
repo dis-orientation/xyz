@@ -1,5 +1,5 @@
 ---
-title: XYZ Disorientation About
+title: XYZ Dis-orientation About
 layout: default
 ---
 

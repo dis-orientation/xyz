@@ -1,5 +1,5 @@
 ---
-title: XYZ Disorientation Contact
+title: XYZ Dis-orientation Contact
 layout: default
 ---
 
