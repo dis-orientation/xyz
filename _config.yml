@@ -1,0 +1,10 @@
+name: "XYZ Disorientation"
+description: "All the things you ought to know about XYZ"
+
+url: "http://xyz.dis-orientation.info"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
