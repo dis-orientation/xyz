@@ -39,7 +39,12 @@ h1, h2, h3, h4, h5, h6{
 	font-family: "Times New Roman", Times, serif;
 }
 
-a, a:hover{
+a{
+	color: #DD6E0F;
+	text-decoration: none;
+}
+
+a:hover{
 	color: #DD6E0F;
 	text-decoration: none;
 }
