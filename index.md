@@ -18,6 +18,5 @@ layout: default
 </a>
 <br/>
 </div>
-<hr style="background:#4B4137; border:0; height:7px" />
 </div>
 {% endfor %}
