@@ -206,6 +206,11 @@ STYLING FOR BLOG POSTS:
 	height: 50%;
 }
 
+.excerpt-link{
+	color: #261309;
+	text-decoration: none;
+}
+
 .post-title{
 	font-size: large;
 	font-weight: bold;
