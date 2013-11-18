@@ -39,12 +39,7 @@ h1, h2, h3, h4, h5, h6{
 	font-family: "Times New Roman", Times, serif;
 }
 
-a{
-	color: #DD6E0F;
-	text-decoration: none;
-}
-
-a:hover{
+a, a:hover{
 	color: #DD6E0F;
 	text-decoration: none;
 }
@@ -203,7 +198,7 @@ STYLING FOR BLOG POSTS:
 	padding-top: 15px;
 }
 
-.post-excerpt a, a:hover{
+.post-excerpt a{
 	color: #261309;
 	text-decoration: none;
 }
