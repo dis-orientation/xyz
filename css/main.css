@@ -197,6 +197,11 @@ STYLING FOR BLOG POSTS:
 	padding-top: 15px;
 }
 
+.post-excerpt a, a:hover{
+	color: #261309;
+	text-decoration: none;
+}
+
 .post-excerpt .horiz{
 	width: 50%;
 }
@@ -206,7 +211,7 @@ STYLING FOR BLOG POSTS:
 }
 
 .post-title{
-	font-size: 3em;
+	font-size: large;
 	font-weight: bold;
 	line-height: 1em;
 }
