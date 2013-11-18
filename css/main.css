@@ -183,3 +183,35 @@ NAVIGATION BAR:
 #header li:hover li a:hover{
 	background: #4B4137; 
 }
+
+/*
+STYLING FOR BLOG POSTS:
+----------------------------------------------------
+*/
+
+.post{
+	margin-bottom: 4%;
+}
+
+.post-excerpt{
+	padding-top: 15px;
+}
+
+.post-excerpt .horiz{
+	width: 50%;
+}
+
+.post-excerpt .vert{
+	height: 50%;
+}
+
+.post-title{
+	font-size: 3em;
+	font-weight: bold;
+	line-height: 1em;
+}
+
+.date{
+	font-weight: bold;
+	margin-top: 3px;
+}
