@@ -172,7 +172,8 @@ NAVIGATION BAR:
 
 #header ul ul li a{
 	color: #DD6E0F;
-	padding: 15px 40px;
+	padding-left: 5px;
+	font-size: small;
 }
 
 /*
