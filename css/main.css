@@ -178,7 +178,7 @@ NAVIGATION BAR:
 }
 
 /*
-STYLING FOR BLOG POSTS:
+STYLING FOR BLOG POSTS ON MAIN BLOG PAGE:
 ----------------------------------------------------
 */
 
@@ -213,4 +213,13 @@ since there is already a border separating content from footer
 	font-size: small;
 	font-weight: bold;
 	margin-top: 3px;
+}
+
+/*
+STYLING FOR INDIVIDUAL BLOG POSTS:
+----------------------------------------------------
+*/
+
+.meta-post{
+	font-family: "Times New Roman", Times, serif;
 }
