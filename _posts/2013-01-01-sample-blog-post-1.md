@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post-default
 title: Sample Blog Post 1
 author: Anonymous
 categories:
