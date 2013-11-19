@@ -210,6 +210,12 @@ since there is already a border separating content from footer
 	text-decoration: none;
 }
 
+.post-title{
+	font-size: large;
+	font-weight: bold;
+	line-height: 1em;
+}
+
 .date{
 	font-size: small;
 	font-weight: bold;
