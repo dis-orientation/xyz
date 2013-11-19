@@ -210,7 +210,7 @@ STYLING FOR BLOG POSTS:
 	height: 50%;
 }
 
-.excerpt-link{
+.excerpt-link, .excerpt-link:hover{
 	color: #261309;
 	text-decoration: none;
 }
