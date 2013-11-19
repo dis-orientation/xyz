@@ -194,20 +194,15 @@ STYLING FOR BLOG POSTS:
 	border-bottom: 0.07em solid #4B4137;
 }
 
+/* Gets rid of border-bottom for last post in blog posts,
+since there is already a border separating content from footer
+*/
 .post-last{
 	margin-bottom: 4%;
 }
 
 .post-excerpt{
 	padding-top: 15px;
-}
-
-.post-excerpt .horiz{
-	width: 50%;
-}
-
-.post-excerpt .vert{
-	height: 50%;
 }
 
 .excerpt-link, .excerpt-link:hover{
@@ -222,6 +217,7 @@ STYLING FOR BLOG POSTS:
 }
 
 .date{
+	font-size: small;
 	font-weight: bold;
 	margin-top: 3px;
 }
