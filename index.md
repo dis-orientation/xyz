@@ -9,7 +9,7 @@ layout: default
 {% if forloop.last != true %}
 <div class="post">
 <div class="preview-title">
-<span class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></span>
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 <br/>
 <div class="date">{{ post.date | date: "%B %e, %Y" }}</div>
 </div>
