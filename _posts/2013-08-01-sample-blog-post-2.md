@@ -3,7 +3,6 @@ layout: post-default
 title: Sample Blog Post 2
 author: Anonymous
 categories:
-- dis-orientation
 - universities
 tags:
 - activism

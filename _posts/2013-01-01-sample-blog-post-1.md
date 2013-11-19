@@ -4,7 +4,6 @@ title: Sample Blog Post 1
 author: Anonymous
 categories:
 - dis-orientation
-- universities
 tags:
 - activism
 - politics
