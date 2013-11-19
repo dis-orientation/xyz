@@ -145,7 +145,8 @@ NAVIGATION BAR:
 }
 
 #header li ul{
-	display: none; 
+	display: none;
+	width: 10em; /* Width to help Opera out */ 
 }
 
 #header ul li a{
