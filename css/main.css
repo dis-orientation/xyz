@@ -144,11 +144,6 @@ NAVIGATION BAR:
 	float: left;
 }
 
-#header li ul{
-	display: none;
-	width: 10em; /* Width to help Opera out */ 
-}
-
 #header ul li a{
 	display: block;
 	text-decoration: none;
@@ -158,24 +153,21 @@ NAVIGATION BAR:
 	white-space: nowrap;
 }
 
-#header ul li a:hover{
-	background: #4B4137; 
+#header ul ul{
+	display: none;
+	top: 100%;
+	background: #4B4137;
+	border-radius: 0px;
+	padding: 0;
 }
 
-#header ul li:hover > ul{
-	display: block;
-	position: absolute;
-}
-
-#header li:hover li{
+#header ul ul li{
 	float: none;
+	position: relative;
 }
 
-#header li:hover a{
-	background: #4B4137; 
-}
-
-#header li:hover li a:hover{
+#header ul ul li a{
+	padding: 15px 40px;
 	background: #4B4137; 
 }
 
