@@ -156,7 +156,7 @@ NAVIGATION BAR:
 
 #header ul ul{
 	display: none;
-	top: 100%;
+	position: fixed;
 	border-radius: 0px;
 	padding: 0;
 }
