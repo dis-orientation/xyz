@@ -136,6 +136,7 @@ NAVIGATION BAR:
 	margin: 0;
 	padding: 0;
 	list-style: none;
+	position:relative;
 }
 
 #header ul li{
@@ -156,9 +157,12 @@ NAVIGATION BAR:
 #header ul ul{
 	display: none;
 	top: 100%;
-	background: #4B4137;
 	border-radius: 0px;
 	padding: 0;
+}
+
+#header ul li:hover > ul{
+	display: block;
 }
 
 #header ul ul li{
@@ -167,8 +171,8 @@ NAVIGATION BAR:
 }
 
 #header ul ul li a{
+	color: #DD6E0F;
 	padding: 15px 40px;
-	background: #4B4137; 
 }
 
 /*
