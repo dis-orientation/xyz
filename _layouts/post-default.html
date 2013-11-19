@@ -2,7 +2,7 @@
 
 <h2>{{ page.title }}</h2>
 <h3>{{ page.date | date: "%B %e, %Y" }}</h3>
-<p>Author: {{ page.author }}</p>
+<p><span style="font-weight:800;">Author</span>: {{ page.author }}</p>
 <p style="font-size:smaller">
 <span style="font-weight:800;">Categories</span>: {{ page.categories | join: ', ' }} <span style="color:#8E8E8E;font-weight:300;font-size:x-large;vertical-align:middle;">|</span> <span style="font-weight:800;">Tags</span>: {{ page.tags | join: ', ' }}
 </p>
