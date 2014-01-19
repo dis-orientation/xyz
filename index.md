@@ -1,9 +1,9 @@
 ---
-title: XYZ Dis-orientation 
+title: XYZ Dis-orientation Sample Blog
 layout: default
 ---
 
-## XYZ Blog
+## XYZ Dis-orientation Sample Blog
 
 {% for post in site.posts %}
 {% if forloop.last != true %}
